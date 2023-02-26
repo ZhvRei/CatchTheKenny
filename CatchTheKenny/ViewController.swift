@@ -1,5 +1,3 @@
-//
-//  ViewController.swift
 //  CatchTheKenny
 //
 //  Created by c7j on 22.02.2023.
